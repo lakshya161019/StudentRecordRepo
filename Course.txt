@@ -1,4 +1,4 @@
 ECE
-CS
-IT
+Computer Science
+Information Technology
 Mechanical
